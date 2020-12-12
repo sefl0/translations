@@ -1,0 +1,11 @@
+How to Use:
+
+1. Copy and paste Spanish text into spanish.txt, not spanishFixed.txt (make sure there is nothing but the Spanish text, i.e. get rid of interview headers w/ date and time and person interviewed, etc.)
+2. Do the same w/ translation text.
+3. Save and close both documents.
+4. Double click concatenator.py
+5. Open final.txt and scroll to bottom to make sure that the English text is below its corresponding Spanish text throughout the whole translation.
+6. If there are misaligned paragraphs, you have to fix them by hand. I think this is still faster than manually copying and pasting the English below the Spanish and then highlighting it blue.
+7. Once final.txt is up to par, ctrl+a to copy it all and paste it into the top cell of the column in blackAndBlue.xlsx which is wider than the rest. This should make it so the English is blue text and the Spanish remains black.
+8. Copy+paste the text from the excel sheet into your OneDrive document. Doesn't work w/ Firefox, has to be in Chrome for some reason.
+9. That's it!
